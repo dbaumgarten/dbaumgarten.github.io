@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dbaumgarten.github.io/yodk/sitemap.xml
